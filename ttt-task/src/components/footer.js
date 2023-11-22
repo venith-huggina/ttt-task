@@ -61,7 +61,7 @@ const footer = () => {
                     <p>Think about it - this cricket was asking to therapy <br /> <br />Laying our Childhood trauma up top, working with it slowly and surely over two m...</p>
                 </div>
                 <div className='matter-info'>
-                    <p className='sub-m'><span className='sub-m-info'>thought by</span> {data.profile.middlename}{data.profile.lastname} </p>
+                    <p className='sub-m'><span className='sub-m-info'>musing by</span> {data.profile.middlename}{data.profile.lastname} </p>
                     <p className='sub-m-info-2'>August 21 . 2 min Read . 15 Views</p>
                 </div>
                 <div className='sub-border'></div>
@@ -76,7 +76,7 @@ const footer = () => {
                     <p>Writing is the first step to create: <br/><br/>-stories <br/>-products <br/>-companies</p>
                 </div>
                 <div className='matter-info'>
-                    <p className='sub-m'><span className='sub-m-info'>thought by</span> {data.profile.middlename}{data.profile.lastname} </p>
+                    <p className='sub-m'><span className='sub-m-info'>musing by</span> {data.profile.middlename}{data.profile.lastname} </p>
                     <p className='sub-m-info-2'>April 22 . 3mins Read . 38 Views</p>
                 </div>
                 <div className='sub-border'></div>
