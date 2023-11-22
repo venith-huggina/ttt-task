@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 1000px; /* Ensure the body has enough height for scrolling */
+}
+
+.navbar {
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    background-color: black;
+    padding-right: 25px;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo-container {
+    height: 30px;
+    padding-left: 10px;
+    
+}
+
+.img-place {
+    height: 35px;
+    width: 35px;
+}
+
+.line {
+    border-right: 1px solid #ffc300;
+    padding-left: 10px;
+    height: 35px;
+}
+
+.logo-text {
+    letter-spacing: 5px;
+    font-weight: bold;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.nav-btn {
+    background-color: #ffc300;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.a_style {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
